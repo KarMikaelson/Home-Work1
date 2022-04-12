@@ -1,0 +1,10 @@
+.karina{
+    font-size: 26px;
+    font-family: Roboto sans-serif;
+    font-weight: bold;
+
+    -webkit-box-shadow: 52px 33px 12px 28px rgba(39, 140, 217, 0.2);
+-moz-box-shadow: 52px 33px 12px 28px rgba(39, 140, 217, 0.2);
+box-shadow: 52px 33px 12px 28px rgba(39, 140, 217, 0.2);
+border-style: dotted; color: green; font-weight: 5px;
+}
